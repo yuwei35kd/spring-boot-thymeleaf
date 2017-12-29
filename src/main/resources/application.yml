@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  profiles:
+    active: dev
+file: 
+    template: 
+        prefix: E:/workspace2/spring-boot-thymeleaf/src/main/resources/templates/
